@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="Artboard" src="https://github.com/user-attachments/assets/eb640a90-14a9-42f3-b18f-506b6d10f8a4" />
+
 # Starlight Starter Kit: Basics
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
